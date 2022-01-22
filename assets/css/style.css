@@ -1,0 +1,29 @@
+body * {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+.navbar {
+    background:linear-gradient(cyan, purple, black);
+}
+.header {
+    background: linear-gradient(purple, black) ;
+} 
+
+.bulma_header {
+    width: 70%;
+    height: auto;
+    position: relative;
+    right: -160px;
+    
+}
+
+.title {
+    background:linear-gradient(black, cyan);
+    width: 100%;
+}
+
+section {
+    background: linear-gradient(black, purple)
+}
